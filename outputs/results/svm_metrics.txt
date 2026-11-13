@@ -1,0 +1,16 @@
+Model: HOG + Linear SVM
+Dataset: PneumoniaMNIST
+Evaluation split: Validation
+Accuracy: 0.9255725190839694
+Precision: 0.9510309278350515
+Recall: 0.9485861182519281
+F1-score: 0.9498069498069498
+
+Confusion Matrix:
+[[116, 19],
+ [20, 369]]
+
+True Negatives: 116
+False Positives: 19
+False Negatives: 20
+True Positives: 369
