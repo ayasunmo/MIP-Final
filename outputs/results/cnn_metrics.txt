@@ -1,0 +1,17 @@
+Split: Validation | Preprocess: clahe | ClassWeights: True | Augment: True
+Accuracy:  0.9351
+Precision: 0.9944
+Recall:    0.9177
+F1:        0.9545
+Confusion matrix:
+[[133   2]
+ [ 32 357]]
+
+Split: Test | Preprocess: clahe
+Accuracy:  0.9038
+Precision: 0.8986
+Recall:    0.9538
+F1:        0.9254
+Confusion matrix:
+[[192  42]
+ [ 18 372]]
